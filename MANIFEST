@@ -1,0 +1,13 @@
+IMu.pm
+IMu/Exception.pm
+IMu/Handler.pm
+IMu/Module.pm
+IMu/Modules.pm
+IMu/Session.pm
+IMu/Stream.pm
+IMu/Terms.pm
+IMu/Trace.pm
+licence.txt
+Makefile.PL
+MANIFEST			This list of files
+README.md
