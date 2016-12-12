@@ -1,0 +1,14 @@
+Source: libimu-perl
+Section: perl
+Priority: optional
+Maintainer: Will Aoki <waoki@umnh.utah.edu>
+Build-Depends: debhelper (>= 8)
+Build-Depends-Indep: perl
+Standards-Version: 3.9.2
+Homepage: https://github.com/axiellalm/imu-api-perl
+
+Package: libimu-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}
+Description: IMu Perl API
+ Provides Perl bindings for the IMu API.
